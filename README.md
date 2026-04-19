@@ -8,21 +8,22 @@ A simple authentication UI with login and registration pages built using HTML, C
 
 ## Directory Structure
 
+```bash
 authentication/
 │
 ├── src/
 │   ├── login.html
 │   ├── register.html
 │   ├── script.js
-│   ├── style.css
+│   └── style.css
 │
 ├── assets/
 │   ├── login-bg-1.jpg
 │   ├── login-bg-2.jpg
-│   ├── user.png
+│   └── user.png
 │
 └── README.md
-
+```
 ---
 
 ## Features
