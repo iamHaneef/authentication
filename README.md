@@ -11,11 +11,10 @@ A simple authentication UI with login and registration pages built using HTML, C
 ```bash
 authentication/
 │
-├── src/
-│   ├── login.html
-│   ├── register.html
-│   ├── script.js
-│   └── style.css
+├── login.html
+├── register.html
+├── script.js
+├── style.css
 │
 ├── assets/
 │   ├── login-bg-1.jpg
@@ -24,7 +23,6 @@ authentication/
 │
 └── README.md
 ```
----
 
 ## Features
 
