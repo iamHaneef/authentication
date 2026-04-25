@@ -33,7 +33,7 @@ authentication-ui/
 ├── script.js
 ├── style.css
 │
-├── assets/
+├── assets/🚀
 │   ├── login-bg-1.jpg
 │   ├── login-bg-2.jpg
 │   └── user.png
@@ -43,6 +43,6 @@ authentication-ui/
 
 ---
 
-## ▶️ How to Run
+## 🚀 How to Run
 
 > Open `login.html` or `register.html` in a browser.
