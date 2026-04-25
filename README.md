@@ -1,15 +1,32 @@
-# Authentication System
+# Authentication UI
 
-This project was created during my early learning phase and is intentionally kept simple to reflect my progress over time.
+## 📌 Overview
 
-A simple authentication UI with login and registration pages built using HTML, CSS, and JavaScript.
+A simple authentication user interface built using HTML, CSS, and JavaScript.  
+This project demonstrates basic login and registration pages with form validation and clean UI design.
 
 ---
 
-## Directory Structure
+## ⚡ Features
+
+- Login and registration interface  
+- Basic form validation  
+- Clean and responsive UI  
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📂 Project Structure
 
 ```bash
-authentication/
+authentication-ui/
 │
 ├── login.html
 ├── register.html
@@ -24,22 +41,8 @@ authentication/
 └── README.md
 ```
 
-## Features
-
-- Login and registration interface  
-- Basic form validation  
-- Styled UI using CSS  
-
 ---
 
-## Getting Started
+## ▶️ How to Run
 
-Open `login.html` or `register.html` in a browser.
-
----
-
-## Technologies Used
-
-- HTML  
-- CSS  
-- JavaScript  
+> Open `login.html` or `register.html` in a browser.
