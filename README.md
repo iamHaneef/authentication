@@ -45,4 +45,4 @@ authentication-ui/
 
 ## 🚀 How to Run
 
-> Open `login.html` or `register.html` in a browser.
+> Open `index.html` in any modern web browser.
